@@ -1,0 +1,104 @@
+html body{
+	padding:0;
+	margin:0;
+}
+body{
+	background: black;
+	font-family: Arial, Trebuchet MS, tahoma, Verdana,Sans-Serif;
+}
+
+div#box{
+	width: 688px;
+	min-height: 365px;
+	margin:100px auto 0 auto;
+	background: #1e3741;
+	border: 1px solid #337d8f;
+	border-radius: 8px;
+	padding-bottom: 10px;
+}
+
+ul, li{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+a{
+	text-decoration:none;
+}
+
+
+
+header{
+	height:34px;
+	margin: 10px 0;
+}
+
+header ul li a{
+	padding: 8px 12px;
+	margin: 0 1px 0 0;
+	background: #4b5f67;
+	font-size: 11px;
+	font-weight:bold;
+	color: #93acb6;
+	float:left;
+}
+
+header ul li a:hover{
+	text-decoration: underline;
+}
+
+header ul li:first-child a{
+	 background: #1e3741;
+	 color: white;
+}
+aside{
+	margin-bottom: 10px; 
+	float:left; 
+	height:auto;
+}
+aside ul li{
+	height: 30px;
+	width: 210px;
+	padding: 14px 10px;
+}
+aside ul li a{
+	padding: 5px 0px;
+	text-align: left;
+	font-size:12px;
+	color: #8ba39b;
+	font-weight:bold;
+}
+aside ul li:nth-child(odd){
+	border: 1px solid #334952;
+	border-right:none;
+	border-left:none;
+}
+aside ul li:nth-child(even){
+	border: 1px solid #29404a;
+	border-right:none;
+	border-left:none;
+}
+
+aside ul li:hover, aside ul li:first-child{
+	border: 1px solid #14585b;
+	border-right:none;
+	border-left:none;
+	background: #00968c;
+    cursor: pointer;
+}
+
+aside ul li:hover a, aside ul li:first-child a{
+	color: white;
+}
+
+aside ul li:last-child{
+	border-bottom:none;
+}
+
+div#coverstory{
+	width:340px;
+	height:224px;
+	background:url("340x224.jpg");
+	float:left;
+}

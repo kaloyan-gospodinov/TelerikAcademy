@@ -1,0 +1,13 @@
+/* CSS Document */
+
+
+div {
+	width: 91%;
+	background-color: black;
+	border: 2px solid red;
+	border-radius: 70px;
+}
+#hidden {
+	display:none;
+}
+ 

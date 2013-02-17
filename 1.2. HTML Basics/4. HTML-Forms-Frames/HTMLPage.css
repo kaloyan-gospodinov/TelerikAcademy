@@ -1,0 +1,70 @@
+body {
+	font-family: Corbel, sans-serif;
+	font-size: 1em;
+}
+ 
+body, table, td, ul {
+	padding: 0;
+	margin: 0;
+}
+ 
+#header{
+	font-size: 1.4em;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+ 
+ul#brands {
+	list-style-type: none;
+}
+ 
+ul#brands li {
+	display: inline;
+}
+ 
+a {
+	color: rgb(0, 171, 239);
+}
+ 
+#leftTable {
+	float: left;
+}
+ 
+#parent-table, #header, #leftTable, fieldset {
+	border: 1px solid rgb(42, 42, 42);
+	border-collapse: collapse;
+	margin: 6px;
+}
+ 
+.laptop td {
+    padding-bottom: 10px;
+}
+ 
+.laptop.rightcell {
+    padding-top: 25px;
+}
+ 
+#rightTable {
+    font-size: 1.2em;
+    margin-top: 76px;
+    margin-left: 5px;
+    margin-right: 7px;
+}
+ 
+#rightTable td {
+	height: 45px;
+}
+ 
+#rightTable .right {
+	text-align: right;
+}
+ 
+input {
+    width: 100%;
+}
+
+
+ 
+ 

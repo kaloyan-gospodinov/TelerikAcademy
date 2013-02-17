@@ -1,0 +1,63 @@
+/* CSS Document */
+
+body {
+	font-family: sans-serif; 
+	font-size: 20px;
+}
+table{
+	width:826px;
+	height: 243px;
+	border: 2px solid rgb(194,192,166);
+	border-collapse: collapse;
+}
+th
+{
+	background-color: rgb(92,192,6);
+	color: white;
+	font-weight: normal;
+	text-align: left;
+	border: 2px solid #1a4b04;
+	border-top: none;
+	border-left: 2px solid rgb(194,192,166);
+}
+td
+{
+	border-left: 2px solid rgb(194,192,166);
+	border-right: 2px solid rgb(194,192,166);
+}
+td, th{
+	padding: 5px 0px 8px 10px;
+	vertical-align: left;
+	border-right-color: rgb(194,192,166);
+}
+.dark{
+	background-color: rgb(236,236,216);
+}
+.light{
+	background-color: rgb(255,255,255);
+}
+.flagDe
+{	
+	
+	background-image:url('img/de.png');
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left: 15px;
+	padding-right: 25px;
+}
+.flagMx
+{
+	background-image:url('img/mx.png');
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left: 15px;
+	padding-right: 25px;
+}
+.flagGb
+{
+	background-image:url('img/gb.png');
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left: 15px;
+	padding-right: 25px;
+}

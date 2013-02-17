@@ -1,0 +1,15 @@
+/* CSS Document */
+
+body {
+	color: #0094ff;
+	font-family: "Consolas";
+}
+p:first-letter
+{ 
+	font-size:240%;
+	font-family: "Edwardian Script ITC";
+}
+p:first-line
+{ 
+	font-weight: bold;
+}

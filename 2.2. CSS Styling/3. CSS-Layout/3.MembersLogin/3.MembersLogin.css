@@ -1,0 +1,68 @@
+body{
+	background-color: rgb(59, 59, 59);
+	color: rgb(164, 164, 164);
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	
+}
+div, ul, li, h1, h2, h3, h4, p, img{
+	margin:0px; padding:0px;
+}
+form{
+	width:778px;
+	height:77px;
+	background:url(from_shadow.jpg) 0 100% no-repeat;
+	
+}
+body form label{
+	width: 177px;
+	height: 44px;
+	font-family: Georgia, "Times New Roman", Times; 
+	font-size:20px; 
+	font-weight:bold; 
+	color: #fff;
+	padding-left:15px;
+	padding-right:15px;
+	margin-top: 17px;
+	height:44px;
+	line-height:44px;
+}
+label{
+	width:135px;
+	height:18px;	
+}
+#name, #mail{
+	margin-right:20px;
+}
+img{
+	height:44px;
+	
+}
+header {
+	width: 400px;
+	height: 68px;
+	font: 28px Georgia, "Times New Roman", Times;
+    position: relative;
+    top: 20px;
+    left: 5px;
+	bottom: 10px;
+	color: rgb(251, 214, 26);
+}
+.first, .second, .third{
+	font-size: 13px;
+}
+nav {
+	height:77px;
+}
+span {
+	color: white;
+}
+.button{
+	width:56px;
+	height:28px;
+	border:none;
+	color:white;
+	background: url(button.gif);
+}
+#main{
+	width: 602px;
+}

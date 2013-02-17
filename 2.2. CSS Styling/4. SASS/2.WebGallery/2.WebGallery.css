@@ -1,0 +1,30 @@
+body ul {
+  list-style-type: none; }
+  body ul li {
+    display: inline-block;
+    margin-right: 5px; }
+    body ul li .thumbnail {
+      height: 150px;
+      width: 150px; }
+
+body input[type=radio] {
+  display: none; }
+  body input[type=radio]:checked + label span {
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background-repeat: no-repeat;
+    margin-left: 40px; }
+  body input[type=radio]:checked + label #aventadorSpan {
+    background-image: url(images/aventador.jpg); }
+  body input[type=radio]:checked + label #continentalSpan {
+    background-image: url(images/continental.jpg); }
+  body input[type=radio]:checked + label #huayraSpan {
+    background-image: url(images/huayra.jpg); }
+  body input[type=radio]:checked + label #mclarenSpan {
+    background-image: url(images/mclaren.jpg); }
+  body input[type=radio]:checked + label #italiaSpan {
+    background-image: url(images/italia.jpg); }
+  body input[type=radio]:checked + label #virageSpan {
+    background-image: url(images/virage.jpg); }
+

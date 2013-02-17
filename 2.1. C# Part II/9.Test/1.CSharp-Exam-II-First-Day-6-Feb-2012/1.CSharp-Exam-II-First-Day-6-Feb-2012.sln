@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.PHPVariables", "1.PHPVariables\1.PHPVariables.csproj", "{C44A8A07-89B1-45E5-902E-040F2E452227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.SevenSegmentDigits", "2.SevenSegmentDigits\2.SevenSegmentDigits.csproj", "{AE24AD90-1500-4DC7-B4C6-82A586D67064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Tubes", "3.Tubes\3.Tubes.csproj", "{26284875-3B67-42C2-B0D2-D1ED0A0DC1E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C44A8A07-89B1-45E5-902E-040F2E452227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44A8A07-89B1-45E5-902E-040F2E452227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44A8A07-89B1-45E5-902E-040F2E452227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44A8A07-89B1-45E5-902E-040F2E452227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE24AD90-1500-4DC7-B4C6-82A586D67064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE24AD90-1500-4DC7-B4C6-82A586D67064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE24AD90-1500-4DC7-B4C6-82A586D67064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE24AD90-1500-4DC7-B4C6-82A586D67064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26284875-3B67-42C2-B0D2-D1ED0A0DC1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26284875-3B67-42C2-B0D2-D1ED0A0DC1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26284875-3B67-42C2-B0D2-D1ED0A0DC1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26284875-3B67-42C2-B0D2-D1ED0A0DC1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
